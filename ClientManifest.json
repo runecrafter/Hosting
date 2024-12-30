@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "Normal",
+    "main": "Application",
+    "bootstrap": "https://raw.githubusercontent.com/Shikiyuno/Hosting/refs/heads/main/client/live/bootstrap.json",
+    "bootstrapsig": "https://raw.githubusercontent.com/Shikiyuno/Hosting/refs/heads/main/client/live/bootstrap.json.sha256",
+    "tooltip": "The Latest most stable Client"
+  }
+]
