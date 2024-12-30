@@ -1,0 +1,427 @@
+{
+  "launcherArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm\u003dtrue",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC"
+  ],
+  "launcherJvm11Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm\u003dtrue",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500"
+  ],
+  "launcherJvm11WindowsArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm\u003dtrue",
+    "-Drunelite.launcher.blacklistedDlls\u003dRTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500"
+  ],
+  "launcherJvm17Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm\u003dtrue",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500"
+  ],
+  "launcherJvm17MacArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm\u003dtrue",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500",
+    "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED"
+  ],
+  "launcherJvm17WindowsArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm\u003dtrue",
+    "-Drunelite.launcher.blacklistedDlls\u003dRTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500"
+  ],
+  "clientJvmArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC"
+  ],
+  "clientJvm9Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.blacklistedDlls\u003dRTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll,GTIII-OSD64-GL.dll,GTIII-OSD64-VK.dll,GTIII-OSD64.dll",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500"
+  ],
+  "clientJvm17MacArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500",
+    "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED"
+  ],
+  "clientJvm17Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx812m",
+    "-Xss2m",
+    "-XX:CompileThreshold\u003d1500"
+  ],
+  "artifacts": [
+    {
+      "hash": "1333e7be378c2c0528d7919f6b9bbaa5f44d097424039422f2022d4da9de72c5",
+      "name": "game-0.0.1.jar",
+      "path": "https://github.com/Shikiyuno/hosting/raw/main/client/live/repo/game-0.0.1.jar",
+      "size": 1509565
+    },
+    {
+      "hash": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
+      "name": "kotlin-stdlib-jdk8-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar",
+      "size": 969
+    },
+    {
+      "hash": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
+      "name": "kotlin-stdlib-jdk7-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar",
+      "size": 963
+    },
+    {
+      "hash": "b4d409a57151142c2647947f8def1fa8120db9685259c502941834b7f9e44328",
+      "name": "okhttp-4.3.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.3.0/okhttp-4.3.0.jar",
+      "size": 750504
+    },
+    {
+      "hash": "8b3ca9c9fb516ab2623bb4a3cfef0a5fa8580188eed9127cdefc1a0088d1fa7e",
+      "name": "okio-jvm-2.4.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.4.1/okio-2.4.1.jar",
+      "size": 240710
+    },
+    {
+      "hash": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
+      "name": "kotlin-stdlib-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.22/kotlin-stdlib-1.8.22.jar",
+      "size": 1670469
+    },
+    {
+      "hash": "f559145d875ad67512c1a0c56f9bfeaa8dd518ed121dda140bfee8cc7c89b265",
+      "name": "xstream-0.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/io/github/benas/xstream/0.1/xstream-0.1.jar",
+      "size": 35853
+    },
+    {
+      "hash": "a4a9f4008140f2e7dbd55596ee3330ddd960f56bccbd488f44651739496ce35a",
+      "name": "xstream-5.1.4.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/webjars/npm/xstream/5.1.4/xstream-5.1.4.jar",
+      "size": 223205
+    },
+    {
+      "hash": "7f8039c0ee7284f9c2a9554b5e2bc20bf26b74b37f690633a75ff1993136f364",
+      "name": "xstream-1.4.7.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar",
+      "size": 531571
+    },
+    {
+      "hash": "4d8e899621a3006c2f66e19feab002b11e6cfc5cb1854fc41f01532c00deb2aa",
+      "name": "logback-classic-1.2.11.jar",
+      "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar",
+      "size": 231851
+    },
+    {
+      "hash": "8627ce0a8a60a5f03989073e55ff5db5f8c7c9da9a95a41da4b86930a9b7a45b",
+      "name": "Notify-3.7.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/dorkbox/Notify/3.7/Notify-3.7.jar",
+      "size": 107185
+    },
+    {
+      "hash": "5c4a58c44c77dd82927ee25b63c822653ab3d44deb0b59c5f59baf8dcddd1e17",
+      "name": "TweenEngine-8.3.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/dorkbox/TweenEngine/8.3/TweenEngine-8.3.jar",
+      "size": 73814
+    },
+    {
+      "hash": "d3ef575e3e4979678dc01bf1dcce51021493b4d11fb7f1be8ad982877c16a1c0",
+      "name": "slf4j-api-1.7.36.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar",
+      "size": 41125
+    },
+    {
+      "hash": "d258ff1bd9b8b527872f8402648226658ad3149f1f40e74b0566d69e7e042fbc",
+      "name": "guice-4.2.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2.jar",
+      "size": 846627
+    },
+    {
+      "hash": "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab",
+      "name": "guava-31.1-jre.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
+      "size": 2959479
+    },
+    {
+      "hash": "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908",
+      "name": "commons-io-2.11.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar",
+      "size": 327135
+    },
+    {
+      "hash": "6fe7ad4ad5349d6b77e7a0e1c9f6037108a1ee48c42e7e6eb4b18f56d324f7b2",
+      "name": "commons-text-1.8.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.8/commons-text-1.8.jar",
+      "size": 207030
+    },
+    {
+      "hash": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
+      "name": "commons-lang3-3.12.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+      "size": 587402
+    },
+    {
+      "hash": "ab119a8ea3cc69472ebc0e870b849bfbbe536ad57d613dc38453ccd592ca6a3d",
+      "name": "jackson-core-2.13.3.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar",
+      "size": 374895
+    },
+    {
+      "hash": "5326a6fbcde7cf8817f36c254101cd45f6acea4258518cd3c80ee5b89f4e4b9b",
+      "name": "jackson-annotations-2.13.3.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar",
+      "size": 75714
+    },
+    {
+      "hash": "d164dad0b4e25aea7db8f96f4ba356af570ccc1a9c188a0b4cd2dda595231636",
+      "name": "jackson-dataformat-yaml-2.13.3.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.3/jackson-dataformat-yaml-2.13.3.jar",
+      "size": 52020
+    },
+    {
+      "hash": "6444bf08d8cd4629740afc3db1276938f494728deb663ce585c4e91f6b45eb84",
+      "name": "jackson-databind-2.13.3.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar",
+      "size": 1536542
+    },
+    {
+      "hash": "c96d60551331a196dac54b745aa642cd078ef89b6f267146b705f2c2cbef052d",
+      "name": "gson-2.9.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar",
+      "size": 249277
+    },
+    {
+      "hash": "721477456f75acab46e1b737ca84627c9d531831e33b54303c6a5bd071bafc22",
+      "name": "reflections8-0.11.7.jar",
+      "path": "https://repo.maven.apache.org/maven2/net/oneandone/reflections8/reflections8/0.11.7/reflections8-0.11.7.jar",
+      "size": 145616
+    },
+    {
+      "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
+      "name": "trident-1.5.00.jar",
+      "path": "https://repo.runelite.net/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
+      "size": 79726
+    },
+    {
+      "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+      "name": "substance-8.0.02.jar",
+      "path": "https://repo.runelite.net/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
+      "size": 1589195
+    },
+    {
+      "hash": "39f3922deb679b1852af519eb227157ef2dd0a21eec3542c8ce1b45f2df39742",
+      "name": "lombok-1.18.4.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.4/lombok-1.18.4.jar",
+      "size": 1699593
+    },
+    {
+      "hash": "7e26a8d043418f2f22d5f6a3083a9a131817009ee8cd72c004e83b50d1849a7c",
+      "name": "discord-1.1.jar",
+      "path": "https://repo.runelite.net/net/runelite/discord/1.1/discord-1.1.jar",
+      "size": 617294
+    },
+    {
+      "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
+      "name": "jsr305-3.0.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "size": 19936
+    },
+    {
+      "hash": "81b8d638af0083c4b877099d56aa0fee714485cd2ace1b6a09cab867cadb375d",
+      "name": "google-collections-1.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar",
+      "size": 639592
+    },
+    {
+      "hash": "25f5e7914729a3cb9cbb83918b5f1116625cca63ce38a50f0fe596f837b9a524",
+      "name": "commons-csv-1.7.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-csv/1.7/commons-csv-1.7.jar",
+      "size": 45065
+    },
+    {
+      "hash": "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28",
+      "name": "jopt-simple-5.0.4.jar",
+      "path": "https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+      "size": 78146
+    },
+    {
+      "hash": "5630a6cc76255959d40979ac4a523c648f68527d1451ecfc1d1fcf33ecc50c35",
+      "name": "orange-extensions-1.3.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/massisframework/orange-extensions/1.3.1/orange-extensions-1.3.1.jar",
+      "size": 29500
+    },
+    {
+      "hash": "d0c2365e2437ef70f34586d50f055743f79716bcfe65e4bc7239cdd2669ef7c5",
+      "name": "kotlin-stdlib-common-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.22/kotlin-stdlib-common-1.8.22.jar",
+      "size": 221491
+    },
+    {
+      "hash": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
+      "name": "annotations-13.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar",
+      "size": 17536
+    },
+    {
+      "hash": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
+      "name": "xmlpull-1.1.3.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar",
+      "size": 7188
+    },
+    {
+      "hash": "bfc90e9e32d0eab1f397fb974b5f150a815188382ac41f372a7149d5bc178008",
+      "name": "xpp3_min-1.1.4c.jar",
+      "path": "https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar",
+      "size": 24956
+    },
+    {
+      "hash": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
+      "name": "failureaccess-1.0.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
+      "size": 4617
+    },
+    {
+      "hash": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
+      "name": "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "size": 2199
+    },
+    {
+      "hash": "ff10785ac2a357ec5de9c293cb982a2cbb605c0309ea4cc1cb9b9bc6dbe7f3cb",
+      "name": "checker-qual-3.12.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar",
+      "size": 208835
+    },
+    {
+      "hash": "721cb91842b46fa056847d104d5225c8b8e1e8b62263b993051e1e5a0137b7ec",
+      "name": "error_prone_annotations-2.11.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar",
+      "size": 15979
+    },
+    {
+      "hash": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
+      "name": "j2objc-annotations-1.3.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar",
+      "size": 8781
+    },
+    {
+      "hash": "6ce1e9397be8298a2e99029f55f955c6fa3cef255171c554d0b9c201cffd0159",
+      "name": "logback-core-1.2.11.jar",
+      "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "size": 448764
+    },
+    {
+      "hash": "59531c00f3e3aa1ff48b3a8cf4ead47d203ab0e2fd9e0ad401f764e05947e252",
+      "name": "javassist-3.22.0-GA.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/javassist/javassist/3.22.0-GA/javassist-3.22.0-GA.jar",
+      "size": 739582
+    },
+    {
+      "hash": "f43a4e40a946b8cdfd0321bc1c9a839bc3f119c57e4ca84fb87c367f51c8b2b3",
+      "name": "snakeyaml-1.30.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.30/snakeyaml-1.30.jar",
+      "size": 331605
+    },
+    {
+      "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
+      "name": "javax.inject-1.jar",
+      "path": "https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar",
+      "size": 2497
+    },
+    {
+      "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
+      "name": "aopalliance-1.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
+      "size": 4467
+    },
+    {
+      "hash": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b",
+      "name": "jna-4.5.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar",
+      "size": 1440662
+    },
+    {
+      "hash": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1",
+      "name": "ObjectPool-2.11.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/dorkbox/ObjectPool/2.11/ObjectPool-2.11.jar",
+      "size": 11396
+    }
+  ],
+  "updates": [],
+  "dependencyHashes": {
+    "game-0.0.1.jar": "1333e7be378c2c0528d7919f6b9bbaa5f44d097424039422f2022d4da9de72c5",
+    "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
+    "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
+    "okhttp-4.3.0.jar": "b4d409a57151142c2647947f8def1fa8120db9685259c502941834b7f9e44328",
+    "okio-jvm-2.4.1.jar": "8b3ca9c9fb516ab2623bb4a3cfef0a5fa8580188eed9127cdefc1a0088d1fa7e",
+    "kotlin-stdlib-1.8.22.jar": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
+    "xstream-0.1.jar": "f559145d875ad67512c1a0c56f9bfeaa8dd518ed121dda140bfee8cc7c89b265",
+    "xstream-5.1.4.jar": "a4a9f4008140f2e7dbd55596ee3330ddd960f56bccbd488f44651739496ce35a",
+    "xstream-1.4.7.jar": "7f8039c0ee7284f9c2a9554b5e2bc20bf26b74b37f690633a75ff1993136f364",
+    "logback-classic-1.2.11.jar": "4d8e899621a3006c2f66e19feab002b11e6cfc5cb1854fc41f01532c00deb2aa",
+    "Notify-3.7.jar": "8627ce0a8a60a5f03989073e55ff5db5f8c7c9da9a95a41da4b86930a9b7a45b",
+    "TweenEngine-8.3.jar": "5c4a58c44c77dd82927ee25b63c822653ab3d44deb0b59c5f59baf8dcddd1e17",
+    "slf4j-api-1.7.36.jar": "d3ef575e3e4979678dc01bf1dcce51021493b4d11fb7f1be8ad982877c16a1c0",
+    "guice-4.2.2.jar": "d258ff1bd9b8b527872f8402648226658ad3149f1f40e74b0566d69e7e042fbc",
+    "guava-31.1-jre.jar": "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab",
+    "commons-io-2.11.0.jar": "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908",
+    "commons-text-1.8.jar": "6fe7ad4ad5349d6b77e7a0e1c9f6037108a1ee48c42e7e6eb4b18f56d324f7b2",
+    "commons-lang3-3.12.0.jar": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
+    "jackson-core-2.13.3.jar": "ab119a8ea3cc69472ebc0e870b849bfbbe536ad57d613dc38453ccd592ca6a3d",
+    "jackson-annotations-2.13.3.jar": "5326a6fbcde7cf8817f36c254101cd45f6acea4258518cd3c80ee5b89f4e4b9b",
+    "jackson-dataformat-yaml-2.13.3.jar": "d164dad0b4e25aea7db8f96f4ba356af570ccc1a9c188a0b4cd2dda595231636",
+    "jackson-databind-2.13.3.jar": "6444bf08d8cd4629740afc3db1276938f494728deb663ce585c4e91f6b45eb84",
+    "gson-2.9.0.jar": "c96d60551331a196dac54b745aa642cd078ef89b6f267146b705f2c2cbef052d",
+    "reflections8-0.11.7.jar": "721477456f75acab46e1b737ca84627c9d531831e33b54303c6a5bd071bafc22",
+    "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
+    "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+    "lombok-1.18.4.jar": "39f3922deb679b1852af519eb227157ef2dd0a21eec3542c8ce1b45f2df39742",
+    "discord-1.1.jar": "7e26a8d043418f2f22d5f6a3083a9a131817009ee8cd72c004e83b50d1849a7c",
+    "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
+    "google-collections-1.0.jar": "81b8d638af0083c4b877099d56aa0fee714485cd2ace1b6a09cab867cadb375d",
+    "commons-csv-1.7.jar": "25f5e7914729a3cb9cbb83918b5f1116625cca63ce38a50f0fe596f837b9a524",
+    "jopt-simple-5.0.4.jar": "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28",
+    "orange-extensions-1.3.1.jar": "5630a6cc76255959d40979ac4a523c648f68527d1451ecfc1d1fcf33ecc50c35",
+    "kotlin-stdlib-common-1.8.22.jar": "d0c2365e2437ef70f34586d50f055743f79716bcfe65e4bc7239cdd2669ef7c5",
+    "annotations-13.0.jar": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
+    "xmlpull-1.1.3.1.jar": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
+    "xpp3_min-1.1.4c.jar": "bfc90e9e32d0eab1f397fb974b5f150a815188382ac41f372a7149d5bc178008",
+    "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
+    "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
+    "checker-qual-3.12.0.jar": "ff10785ac2a357ec5de9c293cb982a2cbb605c0309ea4cc1cb9b9bc6dbe7f3cb",
+    "error_prone_annotations-2.11.0.jar": "721cb91842b46fa056847d104d5225c8b8e1e8b62263b993051e1e5a0137b7ec",
+    "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
+    "logback-core-1.2.11.jar": "6ce1e9397be8298a2e99029f55f955c6fa3cef255171c554d0b9c201cffd0159",
+    "javassist-3.22.0-GA.jar": "59531c00f3e3aa1ff48b3a8cf4ead47d203ab0e2fd9e0ad401f764e05947e252",
+    "snakeyaml-1.30.jar": "f43a4e40a946b8cdfd0321bc1c9a839bc3f119c57e4ca84fb87c367f51c8b2b3",
+    "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
+    "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
+    "jna-4.5.1.jar": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b",
+    "ObjectPool-2.11.jar": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1"
+  }
+}
