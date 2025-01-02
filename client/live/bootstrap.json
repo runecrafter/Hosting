@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "c497e43b36df4eb054af0f2c8c3fe702d400ac557e9f7ada76ffd632cb59204f",
+      "hash": "6b2e00c42e7dbe2265a1a967372887fa5714a7972632114ccde376fa9c33e9fd",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/Shikiyuno/hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 1509576
+      "size": 1516172
     },
     {
       "hash": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
@@ -374,7 +374,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "c497e43b36df4eb054af0f2c8c3fe702d400ac557e9f7ada76ffd632cb59204f",
+    "game-0.0.1.jar": "6b2e00c42e7dbe2265a1a967372887fa5714a7972632114ccde376fa9c33e9fd",
     "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.3.0.jar": "b4d409a57151142c2647947f8def1fa8120db9685259c502941834b7f9e44328",
