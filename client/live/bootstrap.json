@@ -690,22 +690,22 @@
       "size": 18754
     },
     {
-      "hash": "a35e6fe67966161d283700da128b0b1bc0e7059416887db6efac7e29f38c60a1",
+      "hash": "bbcf40a64a065a33cbdb8bb36f9eb8a68216f609170516d8f4a2480f360702a6",
       "name": "Daeyalt.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/Daeyalt.jar",
-      "size": 49707577
+      "size": 49715821
     },
     {
-      "hash": "7e017d3e7f378e48e3f3fd9717ff2bfb2b3b607cd7aac3704e8db6fd31f2955f",
+      "hash": "69f6ca358d4883919c394ed938d821155ea3080f93ca342d8bddad80594cfc70",
       "name": "game-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/game-0.0.1.jar",
-      "size": 1882685
+      "size": 1877853
     },
     {
-      "hash": "98adb3af72b22b159dc00bd872d9091423769f308f8a6152d73ef63b25e2154a",
+      "hash": "869bb6c1d5b8213919fed01f5b6a3f12318ee35f1734491048057e1be006ea89",
       "name": "runelite-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/runelite-0.0.1.jar",
-      "size": 9916173
+      "size": 9929249
     }
   ],
   "updates": [],
@@ -802,8 +802,8 @@
     "ObjectPool-2.11.jar": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1",
     "xmlpull-1.1.3.1.jar": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
     "ant-launcher-1.10.7.jar": "749d131ab53fd292041245bf24e4b6a6241766f17a5b987a4e4d833cd4234ae6",
-    "Daeyalt.jar": "a35e6fe67966161d283700da128b0b1bc0e7059416887db6efac7e29f38c60a1",
-    "game-0.0.1.jar": "7e017d3e7f378e48e3f3fd9717ff2bfb2b3b607cd7aac3704e8db6fd31f2955f",
-    "runelite-0.0.1.jar": "98adb3af72b22b159dc00bd872d9091423769f308f8a6152d73ef63b25e2154a"
+    "Daeyalt.jar": "bbcf40a64a065a33cbdb8bb36f9eb8a68216f609170516d8f4a2480f360702a6",
+    "game-0.0.1.jar": "69f6ca358d4883919c394ed938d821155ea3080f93ca342d8bddad80594cfc70",
+    "runelite-0.0.1.jar": "869bb6c1d5b8213919fed01f5b6a3f12318ee35f1734491048057e1be006ea89"
   }
 }
