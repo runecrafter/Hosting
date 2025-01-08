@@ -690,27 +690,21 @@
       "size": 18754
     },
     {
-      "hash": "88f0a492abc6cc6d697b1a520a953fc972f099c9d61d8114cf841231ac362fa1",
-      "name": "client-0.0.1.jar",
-      "path": "cosmicps.com/daeyalt/client-0.0.1.jar",
-      "size": 1518502
+      "hash": "4e87ff2330f6152e45156315b02e05944c46b904a3488455a83a2772d6c29214",
+      "name": "Daeyalt.jar",
+      "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/Daeyalt.jar",
+      "size": 49707585
     },
     {
-      "hash": "192ac1664d95eb4cc910ca4eb0995de2fa3c54b02ef3149c084135b83f9797a2",
+      "hash": "173cc5998f9d5e4193fc39fb3a5466bd60bc31568f33ef59e110ffd41fc06de3",
       "name": "game-0.0.1.jar",
-      "path": "cosmicps.com/daeyalt/game-0.0.1.jar",
+      "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/game-0.0.1.jar",
       "size": 1882693
     },
     {
-      "hash": "3a9efa22d6d1377d02404da17672e3a6d8d319df72ceaaf93f750471d33d7380",
-      "name": "Daeyalt.jar",
-      "path": "cosmicps.com/daeyalt/Daeyalt.jar",
-      "size": 49707590
-    },
-    {
-      "hash": "b86a6ceab33a1c9210d59ff88f4c925ac8a893e8cc2f03dbf1e9b77aacf161e4",
+      "hash": "28a645322deb0533d06f310b5d480205b4ce801293c7ea4e17edfd849c96318e",
       "name": "runelite-0.0.1.jar",
-      "path": "cosmicps.com/daeyalt/runelite-0.0.1.jar",
+      "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/runelite-0.0.1.jar",
       "size": 9916173
     }
   ],
@@ -808,9 +802,8 @@
     "ObjectPool-2.11.jar": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1",
     "xmlpull-1.1.3.1.jar": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
     "ant-launcher-1.10.7.jar": "749d131ab53fd292041245bf24e4b6a6241766f17a5b987a4e4d833cd4234ae6",
-    "client-0.0.1.jar": "88f0a492abc6cc6d697b1a520a953fc972f099c9d61d8114cf841231ac362fa1",
-    "game-0.0.1.jar": "192ac1664d95eb4cc910ca4eb0995de2fa3c54b02ef3149c084135b83f9797a2",
-    "Daeyalt.jar": "3a9efa22d6d1377d02404da17672e3a6d8d319df72ceaaf93f750471d33d7380",
-    "runelite-0.0.1.jar": "b86a6ceab33a1c9210d59ff88f4c925ac8a893e8cc2f03dbf1e9b77aacf161e4"
+    "Daeyalt.jar": "4e87ff2330f6152e45156315b02e05944c46b904a3488455a83a2772d6c29214",
+    "game-0.0.1.jar": "173cc5998f9d5e4193fc39fb3a5466bd60bc31568f33ef59e110ffd41fc06de3",
+    "runelite-0.0.1.jar": "28a645322deb0533d06f310b5d480205b4ce801293c7ea4e17edfd849c96318e"
   }
 }

@@ -1,9 +1,9 @@
 [
   {
-    "name": "Normal",
+    "name": "Welcome to the land of Sand Snickers",
     "main": "Application",
     "bootstrap": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/bootstrap.json",
     "bootstrapsig": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/bootstrap.json.sha256",
-    "tooltip": "The Latest most stable Client"
+    "tooltip": "We use the real word ingame"
   }
 ]
