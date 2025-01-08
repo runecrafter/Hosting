@@ -690,22 +690,22 @@
       "size": 18754
     },
     {
-      "hash": "feee8c4686a3a874cc1b0b8cddc920845499209085d10677d3c7827da8497970",
+      "hash": "fec13cfdafe9f04f83382af9dbb1f04c743079a3c3438f52974a0af07caca786",
       "name": "Daeyalt.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/Daeyalt.jar",
-      "size": 49715861
+      "size": 49715894
     },
     {
-      "hash": "f6e1f8924b99625dc00deddff4bbe67bfc38e977a6d5d7fb60bdd6e38f654744",
+      "hash": "77f93f023a5032b6303bcde284ea6d6c0076fef783522dc9d9775cb436383fb8",
       "name": "game-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/game-0.0.1.jar",
-      "size": 1877893
+      "size": 1877923
     },
     {
-      "hash": "869bb6c1d5b8213919fed01f5b6a3f12318ee35f1734491048057e1be006ea89",
+      "hash": "307f719e273d1bed31c7b2d83c20970313712bbd5d81ec8e6358dbb700fb27ac",
       "name": "runelite-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/runelite-0.0.1.jar",
-      "size": 9929249
+      "size": 9929252
     }
   ],
   "updates": [],
@@ -802,8 +802,8 @@
     "ObjectPool-2.11.jar": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1",
     "xmlpull-1.1.3.1.jar": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
     "ant-launcher-1.10.7.jar": "749d131ab53fd292041245bf24e4b6a6241766f17a5b987a4e4d833cd4234ae6",
-    "Daeyalt.jar": "feee8c4686a3a874cc1b0b8cddc920845499209085d10677d3c7827da8497970",
-    "game-0.0.1.jar": "f6e1f8924b99625dc00deddff4bbe67bfc38e977a6d5d7fb60bdd6e38f654744",
-    "runelite-0.0.1.jar": "869bb6c1d5b8213919fed01f5b6a3f12318ee35f1734491048057e1be006ea89"
+    "Daeyalt.jar": "fec13cfdafe9f04f83382af9dbb1f04c743079a3c3438f52974a0af07caca786",
+    "game-0.0.1.jar": "77f93f023a5032b6303bcde284ea6d6c0076fef783522dc9d9775cb436383fb8",
+    "runelite-0.0.1.jar": "307f719e273d1bed31c7b2d83c20970313712bbd5d81ec8e6358dbb700fb27ac"
   }
 }
