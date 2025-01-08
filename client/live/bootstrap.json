@@ -692,19 +692,19 @@
     {
       "hash": "4e87ff2330f6152e45156315b02e05944c46b904a3488455a83a2772d6c29214",
       "name": "Daeyalt.jar",
-      "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/Daeyalt.jar",
+      "path": "https://github.com/runecrafter/Hosting/blob/main/client/live/repo/Daeyalt.jar",
       "size": 49707585
     },
     {
       "hash": "173cc5998f9d5e4193fc39fb3a5466bd60bc31568f33ef59e110ffd41fc06de3",
       "name": "game-0.0.1.jar",
-      "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/game-0.0.1.jar",
+      "path": "https://github.com/runecrafter/Hosting/blob/main/client/live/repo/game-0.0.1.jar",
       "size": 1882693
     },
     {
       "hash": "28a645322deb0533d06f310b5d480205b4ce801293c7ea4e17edfd849c96318e",
       "name": "runelite-0.0.1.jar",
-      "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/runelite-0.0.1.jar",
+      "path": "https://github.com/runecrafter/Hosting/blob/main/client/live/repo/runelite-0.0.1.jar",
       "size": 9916173
     }
   ],
