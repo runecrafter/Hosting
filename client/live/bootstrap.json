@@ -690,16 +690,16 @@
       "size": 18754
     },
     {
-      "hash": "0acc50941a068568583db9a72aa17765de2ceb4894327b70928d4a102a77a22b",
+      "hash": "a35e6fe67966161d283700da128b0b1bc0e7059416887db6efac7e29f38c60a1",
       "name": "Daeyalt.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/Daeyalt.jar",
-      "size": 49707558
+      "size": 49707577
     },
     {
-      "hash": "be73c884f6255682e7409dc87c5525c27875852f933c1e574b73f857c38daa7e",
+      "hash": "7e017d3e7f378e48e3f3fd9717ff2bfb2b3b607cd7aac3704e8db6fd31f2955f",
       "name": "game-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/game-0.0.1.jar",
-      "size": 1882666
+      "size": 1882685
     },
     {
       "hash": "98adb3af72b22b159dc00bd872d9091423769f308f8a6152d73ef63b25e2154a",
@@ -802,8 +802,8 @@
     "ObjectPool-2.11.jar": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1",
     "xmlpull-1.1.3.1.jar": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
     "ant-launcher-1.10.7.jar": "749d131ab53fd292041245bf24e4b6a6241766f17a5b987a4e4d833cd4234ae6",
-    "Daeyalt.jar": "0acc50941a068568583db9a72aa17765de2ceb4894327b70928d4a102a77a22b",
-    "game-0.0.1.jar": "be73c884f6255682e7409dc87c5525c27875852f933c1e574b73f857c38daa7e",
+    "Daeyalt.jar": "a35e6fe67966161d283700da128b0b1bc0e7059416887db6efac7e29f38c60a1",
+    "game-0.0.1.jar": "7e017d3e7f378e48e3f3fd9717ff2bfb2b3b607cd7aac3704e8db6fd31f2955f",
     "runelite-0.0.1.jar": "98adb3af72b22b159dc00bd872d9091423769f308f8a6152d73ef63b25e2154a"
   }
 }
