@@ -1,6 +1,6 @@
 [
   {
-    "name": "Normal",
+    "name": "Dragonstone",
     "main": "Application",
     "bootstrap": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/bootstrap.json",
     "bootstrapsig": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/bootstrap.json.sha256",
