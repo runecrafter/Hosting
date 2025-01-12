@@ -690,22 +690,22 @@
       "size": 18754
     },
     {
-      "hash": "924428c4db58db7e2fef4e1a807f9a4d27b98a636d79ff3e993cd6619fe7f938",
+      "hash": "003ac7db6c6aba4f6b98a768dbcecf7d4146eae75366d5375c115f16b03ba1ab",
       "name": "Daeyalt.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/Daeyalt.jar",
-      "size": 49707585
+      "size": 49715791
     },
     {
-      "hash": "c72af5d69523d027a053c172a408bc8059ab60a51a5c2cd7b646b4229e446e18",
+      "hash": "d6026fe98fcef53a5d68f87ceee4410d82c35663bc7d1799935e1a21f97aba3b",
       "name": "game-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/game-0.0.1.jar",
-      "size": 1882693
+      "size": 1877887
     },
     {
-      "hash": "98adb3af72b22b159dc00bd872d9091423769f308f8a6152d73ef63b25e2154a",
+      "hash": "6685d812d227c42fc8d5ebb7d9344fa50d09c0c864312d3ab5bf6318f1d12336",
       "name": "runelite-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/runelite-0.0.1.jar",
-      "size": 9916173
+      "size": 9929185
     }
   ],
   "updates": [],
@@ -802,8 +802,8 @@
     "ObjectPool-2.11.jar": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1",
     "xmlpull-1.1.3.1.jar": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
     "ant-launcher-1.10.7.jar": "749d131ab53fd292041245bf24e4b6a6241766f17a5b987a4e4d833cd4234ae6",
-    "Daeyalt.jar": "924428c4db58db7e2fef4e1a807f9a4d27b98a636d79ff3e993cd6619fe7f938",
-    "game-0.0.1.jar": "c72af5d69523d027a053c172a408bc8059ab60a51a5c2cd7b646b4229e446e18",
-    "runelite-0.0.1.jar": "98adb3af72b22b159dc00bd872d9091423769f308f8a6152d73ef63b25e2154a"
+    "Daeyalt.jar": "003ac7db6c6aba4f6b98a768dbcecf7d4146eae75366d5375c115f16b03ba1ab",
+    "game-0.0.1.jar": "d6026fe98fcef53a5d68f87ceee4410d82c35663bc7d1799935e1a21f97aba3b",
+    "runelite-0.0.1.jar": "6685d812d227c42fc8d5ebb7d9344fa50d09c0c864312d3ab5bf6318f1d12336"
   }
 }
