@@ -2,8 +2,8 @@
   "launcherArguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500",
     "-Xincgc",
     "-XX:+UseConcMarkSweepGC",
@@ -12,31 +12,31 @@
   "launcherJvm11Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500"
   ],
   "launcherJvm11WindowsArguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
     "-Drunelite.launcher.blacklistedDlls\u003dRTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500"
   ],
   "launcherJvm17Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED"
   ],
   "launcherJvm17MacArguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED",
     "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED"
@@ -45,15 +45,15 @@
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
     "-Drunelite.launcher.blacklistedDlls\u003dRTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED"
   ],
   "clientJvmArguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500",
     "-Xincgc",
     "-XX:+UseConcMarkSweepGC",
@@ -61,22 +61,22 @@
   ],
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500"
   ],
   "clientJvm17MacArguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED",
     "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED"
   ],
   "clientJvm17Arguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx512m",
-    "-Xss2m",
+    "-Xmx2048m",
+    "-Xss512m",
     "-XX:CompileThreshold\u003d1500",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED"
   ],
@@ -690,16 +690,16 @@
       "size": 18754
     },
     {
-      "hash": "bbf9dde935ba605393eaadcf1565665953d864af314d72f9930d7a5bf93c97c3",
+      "hash": "ffe85f362134c626cbe3f4436c48ab05b7444a12083fd8870a411b1cfb6f73df",
       "name": "Daeyalt.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/Daeyalt.jar",
-      "size": 49931411
+      "size": 49931412
     },
     {
-      "hash": "30979d4afe1ea95d4c48121c8e01417b4ca969be1439a75b1e3d086b29fc81bb",
+      "hash": "c434d9ee91c4d695ea094696a177cb9a69c409e3031f38cd2e3852682f4002b8",
       "name": "game-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/runecrafter/Hosting/refs/heads/main/client/live/repo/game-0.0.1.jar",
-      "size": 1518016
+      "size": 1518017
     },
     {
       "hash": "afeb4a1cb1b98d4f46f02e5ed04d73372cf2c437b06e39618b9bf50159b1f00d",
@@ -802,8 +802,8 @@
     "ObjectPool-2.11.jar": "c152f391acf721cc0d175426279d6b4d4b565a149d7eac5709ffd40e5753a9e1",
     "xmlpull-1.1.3.1.jar": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63",
     "ant-launcher-1.10.7.jar": "749d131ab53fd292041245bf24e4b6a6241766f17a5b987a4e4d833cd4234ae6",
-    "Daeyalt.jar": "bbf9dde935ba605393eaadcf1565665953d864af314d72f9930d7a5bf93c97c3",
-    "game-0.0.1.jar": "30979d4afe1ea95d4c48121c8e01417b4ca969be1439a75b1e3d086b29fc81bb",
+    "Daeyalt.jar": "ffe85f362134c626cbe3f4436c48ab05b7444a12083fd8870a411b1cfb6f73df",
+    "game-0.0.1.jar": "c434d9ee91c4d695ea094696a177cb9a69c409e3031f38cd2e3852682f4002b8",
     "runelite-0.0.1.jar": "afeb4a1cb1b98d4f46f02e5ed04d73372cf2c437b06e39618b9bf50159b1f00d"
   }
 }
