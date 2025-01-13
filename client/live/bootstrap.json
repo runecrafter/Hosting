@@ -2,92 +2,75 @@
   "launcherArguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024",
     "-Xincgc",
     "-XX:+UseConcMarkSweepGC",
-    "-XX:+UseParNewGC"
+    "-XX:+UseParNewGC",
+    "-Djna.nosys\u003dtrue"
   ],
   "launcherJvm11Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024"
+    "-Djna.nosys\u003dtrue"
   ],
-  "launcherJvm11WindowsArguments": [
-    "-XX:+DisableAttachMechanism",
-    "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Drunelite.launcher.blacklistedDlls\u003dRTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
-    "-Xmx4096m",
-    "-Xss1024m",
-    "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024"
-  ],
+  "launcherJvm11WindowsArguments": [],
   "launcherJvm17Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024",
+    "-Djna.nosys\u003dtrue",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED"
   ],
   "launcherJvm17MacArguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024",
+    "-Djna.nosys\u003dtrue",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED",
     "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED"
   ],
-  "launcherJvm17WindowsArguments": [
-    "-XX:+DisableAttachMechanism",
-    "-Drunelite.launcher.nojvm\u003dtrue",
-    "-Drunelite.launcher.blacklistedDlls\u003dRTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,NahimicMSIOSD.dll,Nahimic2OSD.dll,Nahimic2DevProps.dll,k_fps32.dll,k_fps64.dll,SS2DevProps.dll,SS2OSD.dll",
-    "-Xmx4096m",
-    "-Xss1024m",
-    "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024",
-    "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED"
-  ],
+  "launcherJvm17WindowsArguments": [],
   "clientJvmArguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024",
     "-Xincgc",
     "-XX:+UseConcMarkSweepGC",
-    "-XX:+UseParNewGC"
+    "-XX:+UseParNewGC",
+    "-Djna.nosys\u003dtrue"
   ],
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024"
+    "-Djna.nosys\u003dtrue"
   ],
   "clientJvm17MacArguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024",
+    "-Djna.nosys\u003dtrue",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED",
     "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED"
   ],
   "clientJvm17Arguments": [
     "-XX:+DisableAttachMechanism",
-    "-Xmx4096m",
-    "-Xss1024m",
+    "-Xmx512m",
+    "-Xss2m",
     "-XX:CompileThreshold\u003d1500",
-    "-XX:ThreadStackSize\u003d1024",
+    "-Djna.nosys\u003dtrue",
     "--add-opens\u003djava.desktop/sun.awt\u003dALL-UNNAMED"
   ],
   "artifacts": [
